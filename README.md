@@ -2,5 +2,5 @@
 
 # Mustache / Templates
 
-* [https://github.com/kylef/Stencil.git](Stencil) – Simple and powerful template language for Swift.
-* [https://github.com/groue/GRMustache.swift](GRMustache) – Flexible Mustache templates for Swift
+* [Stencil](https://github.com/kylef/Stencil.git) – Simple and powerful template language for Swift.
+* [GRMustache](https://github.com/groue/GRMustache.swift) – Flexible Mustache templates for Swift
